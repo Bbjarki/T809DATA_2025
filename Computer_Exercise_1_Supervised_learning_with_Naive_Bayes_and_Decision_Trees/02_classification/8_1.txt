@@ -1,0 +1,18 @@
+
+
+(Question A) Compare the accuracy of both datasets, if the results are different, what explains the difference?
+
+The new dataset has improved accuracy (for example: 0.78 for the original and 0.89 for the new dataset).
+The new dataset has a larger mean separation and a smaller standard deviation. This reduces the overlap and increases the accuracy.
+
+
+(Question B) What happens when you change the:
+
+number of datapoints: If we increase the number of datapoints we get improved accuracy by providing better estimates of
+the mean and the variance. This also means that fewer datapoints reduces the accuracy.
+
+mean of the normal distributions: When the dataset has a larger mean separation it increases the accuracy, and when 
+we lower the mean separation the dataset has decreased accuracy.
+
+standard deviation of the normal distributions: When you increase the standard deviation the datapoints get generated further away from 
+the mean, increasing overlap and becoming less accurate. Meaning that a lower standard deviation has a higher accuracy.
