@@ -174,6 +174,12 @@ Implement `IrisTreeTrainer.guess(self)` that returns predictions on the test dat
 ### Part 2.5
 Implement `IrisTreeTrainer.confusion_matrix(self)` that returns the [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) on the test data. You should implement this metric yourself!
 
+Files to turn in:
+
+- `template.py`: This is your code
+- `2_3_1.png`
+
+
 ## Independent Part (optional)
 **Note:** *This is a pre-formulated independent question. In future assignments you could be asked to demonstrate your capability to add relevant insight to your assignment. The work suggested below is examplary of the type of insight you might add in future assignments. You do not need to complete this independent part to get full marks on this assignment.*
 
